@@ -141,7 +141,9 @@ table{
 #add_user .form-group{
     margin: .4em 0;
 }
-#update_user .form-group input[type="text"]{
+
+#update_user .form-group input[type="text"],
+#add_user .form-group input[type="text"]{
     width: 100%;
     padding: .6em 1em;
     margin: .5em 0;
